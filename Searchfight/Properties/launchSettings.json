@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Searchfight": {
+      "commandName": "Project",
+      "commandLineArgs": ".NET Python Java"
+    }
+  }
+}
